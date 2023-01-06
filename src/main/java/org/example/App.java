@@ -12,13 +12,9 @@ public class App
         System.out.println( "Hello World!" );
 
         // m1;
-        // important changes in master
-        // not important changes
+        // very important only changes in master
 
         // b1;
 
-        // b2;
-
-        // one more change
     }
 }
